@@ -1,4 +1,4 @@
-# hello-vue-components
+# Find Pokemon by kind
 
 ## Project setup
 ```
